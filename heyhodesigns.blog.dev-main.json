@@ -1,15 +1,15 @@
 {
-  "ref": "0d731f55c30e491b731d1a4649a06339c9f11eb3",
+  "ref": "0d731f55c30f491b731d1a464e06339f9e11eb4",
   "bundles": {},
   "files": {
     "config/packages/blog.yaml": {
       "contents": [
         "twig:",
         "    paths:",
-        "        '%vendor-dir%/heyhodesigns/blog/templates': blog"
+        "        '%vendor-dir%/heyhodesigns/blog/templates': blog",
+        ""
       ],
       "executable": false
     }
   }
 }
-

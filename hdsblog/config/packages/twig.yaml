@@ -1,0 +1,3 @@
+twig:
+    paths:
+        '%vendor-dir%/heyhodesigns/blog/templates': blog

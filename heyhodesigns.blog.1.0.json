@@ -5,8 +5,8 @@
     "config/packages/twig.yaml": {
       "contents": [
         "twig:",
-          "paths:",
-            "'%vendor-dir%/heyhodesigns/blog/templates': blog"
+        "    paths:",
+        "        '%vendor-dir%/heyhodesigns/blog/templates': blog"
       ],
       "executable": false
     }

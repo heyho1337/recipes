@@ -1,6 +1,6 @@
 {
   "recipes": {
-    "heyhodesigns/blog": ["1.0", "dev-main"]
+    "heyhodesigns/blog": ["1.0"]
   },
   "branch": "main",
   "is_contrib": true,

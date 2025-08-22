@@ -1,6 +1,10 @@
 {
-  "ref": "0d731f55c30f491b731d1a464e06339f9e11eb4",
+  "ref": "0d731f55c30f491b731d1a464e06339f9e11ec3",
   "bundles": {},
+  "copy-from-recipe": {
+    "src/": "src/",
+    "templates/": "templates/"
+  },
   "files": {
     "config/packages/blog.yaml": {
       "contents": [

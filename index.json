@@ -1,12 +1,11 @@
 {
-  "recipes": {
-    "heyhodesigns/blog": ["1.0"]
-  },
-  "branch": "main",
-  "is_contrib": true,
-  "_links": {
-    "repository": "github.com/heyho1337/recipes",
-    "origin_template": "{package}:{version}@github.com/heyho1337/recipes:main",
-    "recipe_template": "https://api.github.com/repos/heyho1337/recipes/contents/{package_dotted}.{version}.json"
+  "packages": {
+    "heyhodesigns/blog": {
+      "versions": {
+        "1.0": {
+          "manifest": "https://raw.githubusercontent.com/heyho1337/recipes/main/heyhodesigns.blog/1.0.json"
+        }
+      }
+    }
   }
 }
